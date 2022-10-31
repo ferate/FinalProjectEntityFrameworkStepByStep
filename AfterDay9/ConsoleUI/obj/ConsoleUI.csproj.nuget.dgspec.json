@@ -1,0 +1,321 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\ConsoleUI\\ConsoleUI.csproj": {}
+  },
+  "projects": {
+    "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Optimist\\.nuget\\packages\\",
+        "outputPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Optimist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\Core.csproj": {
+                "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\Core.csproj"
+              },
+              "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\DataAccess\\DataAccess.csproj"
+              },
+              "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\ConsoleUI\\ConsoleUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\ConsoleUI\\ConsoleUI.csproj",
+        "projectName": "ConsoleUI",
+        "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\ConsoleUI\\ConsoleUI.csproj",
+        "packagesPath": "C:\\Users\\Optimist\\.nuget\\packages\\",
+        "outputPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\ConsoleUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Optimist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Business\\Business.csproj": {
+                "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Business\\Business.csproj"
+              },
+              "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\DataAccess\\DataAccess.csproj"
+              },
+              "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Optimist\\.nuget\\packages\\",
+        "outputPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Optimist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Optimist\\.nuget\\packages\\",
+        "outputPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Optimist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\Core.csproj": {
+                "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\Core.csproj"
+              },
+              "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Optimist\\.nuget\\packages\\",
+        "outputPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Optimist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\Core.csproj": {
+                "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
