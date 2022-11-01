@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\Core.csproj": {}
+    "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFrameworkStepByStep\\FinalProjectEntityFrameworkStepByStep\\AfterDay9\\Core\\Core.csproj": {}
   },
   "projects": {
-    "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\Core.csproj": {
+    "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFrameworkStepByStep\\FinalProjectEntityFrameworkStepByStep\\AfterDay9\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFrameworkStepByStep\\FinalProjectEntityFrameworkStepByStep\\AfterDay9\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\Core.csproj",
+        "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFrameworkStepByStep\\FinalProjectEntityFrameworkStepByStep\\AfterDay9\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Optimist\\.nuget\\packages\\",
-        "outputPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\obj\\",
+        "outputPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFrameworkStepByStep\\FinalProjectEntityFrameworkStepByStep\\AfterDay9\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Optimist\\AppData\\Roaming\\NuGet\\NuGet.Config",

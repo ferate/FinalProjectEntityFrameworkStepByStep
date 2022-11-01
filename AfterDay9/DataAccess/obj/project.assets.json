@@ -5857,11 +5857,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFrameworkStepByStep\\FinalProjectEntityFrameworkStepByStep\\AfterDay9\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\DataAccess\\DataAccess.csproj",
+      "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFrameworkStepByStep\\FinalProjectEntityFrameworkStepByStep\\AfterDay9\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Optimist\\.nuget\\packages\\",
-      "outputPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\DataAccess\\obj\\",
+      "outputPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFrameworkStepByStep\\FinalProjectEntityFrameworkStepByStep\\AfterDay9\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Optimist\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5878,11 +5878,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\Core.csproj": {
-              "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\Core.csproj"
+            "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFrameworkStepByStep\\FinalProjectEntityFrameworkStepByStep\\AfterDay9\\Core\\Core.csproj": {
+              "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFrameworkStepByStep\\FinalProjectEntityFrameworkStepByStep\\AfterDay9\\Core\\Core.csproj"
             },
-            "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Entities\\Entities.csproj"
+            "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFrameworkStepByStep\\FinalProjectEntityFrameworkStepByStep\\AfterDay9\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFrameworkStepByStep\\FinalProjectEntityFrameworkStepByStep\\AfterDay9\\Entities\\Entities.csproj"
             }
           }
         }

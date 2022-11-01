@@ -1,5 +1,6 @@
 ﻿using DataAccess.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -69,6 +70,16 @@ namespace DataAccess.Concrete.InMemory
            //LINQ Komutu
            return _products.Where(p => p.CategoryId==categoryId).ToList();
            //return _products.Where(p => p.CategoryId == categoryId && ve || veya diyerek daha çok şart ekleyebiliriz).ToList();
+        }
+
+        public Product GetById(Expression<Func<Product, bool>> filter)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<ProductDetailDto> GetProductDetails()
+        {
+            throw new NotImplementedException();
         }
 
         public void Update(Product product)

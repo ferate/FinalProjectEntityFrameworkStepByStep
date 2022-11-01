@@ -1,6 +1,7 @@
 ﻿using Business.Abstract;
 using DataAccess.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,11 +31,20 @@ namespace Business.Concrete
         {
             _productDal.Delete(product);
         }
-
-        public List<Product> GetAll(Expression<Func<Product, bool>> filter = null)
+        
+        public List<Product> GetAll()
         {
-            // İş Kodları
-            return _productDal.GetAll(filter);
+            return _productDal.GetAll();
+        }
+        
+        public Product GetById(int id)
+        {
+            return _productDal.GetById(p => p.ProductId == id);
+        }
+
+        public List<ProductDetailDto> GetProductDetails()
+        {
+            return _productDal.GetProductDetails();
         }
 
         public void Update(Product product)

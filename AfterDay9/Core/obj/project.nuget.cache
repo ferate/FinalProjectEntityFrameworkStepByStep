@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jdGFXVbeLpj+M+OBSPvngIA22H0Fm/Mk4qt7Bm04K8kxyHZ1lkgJiFnXLo3P4iqWPbJ2wAhjrMqn8jDVAhkqbA==",
+  "dgSpecHash": "dhejNRpmhDlqq6DvFKnjatvj5KXfcTZR+FSeYVPrtL+y2z2CKg0B+JXfUJW+2doAZsJjK8RpsDiA619yxpZgww==",
   "success": true,
-  "projectFilePath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\Core\\Core.csproj",
+  "projectFilePath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFrameworkStepByStep\\FinalProjectEntityFrameworkStepByStep\\AfterDay9\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Optimist\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Optimist\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

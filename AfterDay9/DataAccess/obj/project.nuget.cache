@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uYb5iimwcDIb3MFG0Gfq2nYEGi3ao47K8gGgpLSeKIsHNDN16NXqc9PQTH6yTW8CZyOcp5l6/4EdMFZQUZtwZw==",
+  "dgSpecHash": "b4Y+1vO8rOQCQe+qP4ooyC0O0o+44KBJw34i1+24m+Pfd+3i9V/YhmJQmswBu62jTT+230emh5db18J3p5ybRA==",
   "success": true,
-  "projectFilePath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFramework\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "D:\\YazilimGelistiriciYetistirmeKampiEnginDemirog\\FinalProjectEntityFrameworkStepByStep\\FinalProjectEntityFrameworkStepByStep\\AfterDay9\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Optimist\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Optimist\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
