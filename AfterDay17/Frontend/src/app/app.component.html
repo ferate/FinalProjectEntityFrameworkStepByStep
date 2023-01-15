@@ -1,0 +1,33 @@
+
+<!-- Welcome to {{title}}
+
+Hoşgeldin {{user}}
+
+Ürün {{product1.productName}}
+Id {{product1.productId}}
+
+Liste {{products[1].productName}},{{products[1].productId}}
+
+<ul>
+    <li *ngFor="let product of products">{{product.productName}}</li>
+    
+ </ul> -->
+
+ <div class="container">
+    <app-navi></app-navi>
+
+    <div class="row">
+        <div class="col-md-3">
+            <app-category></app-category>
+        </div>
+        <div class="col-md-9">
+            <app-product></app-product>
+        </div>
+        
+        
+    </div>
+    
+    <router-outlet></router-outlet>
+ </div>
+
+
